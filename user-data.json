@@ -1,6 +1,12 @@
 {
   "tiago-grebogi": {
     "password": "tiago123",
-    "balance": 500.0
+    "balance": 542.8,
+    "nickname": "Tiago Grebogi"
+  },
+  "melissa-mendes": {
+    "password": "mita",
+    "balance": 5165651.0,
+    "nickname": "Melissa Mendes"
   }
 }
